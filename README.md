@@ -1,4 +1,4 @@
-# Computer-Networks-Theory-Programming
+# Computer-Networks-Theory-and-Programming
 WEN Zhaohe's repository for the course Computer Networks Theory and Programming
 ## Labs
 - Lab 1
